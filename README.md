@@ -9,6 +9,7 @@ May the code be with you:
 - [ ] break my personal github daily commits record
 - [ ] commit every day for 30 days in a row
 - [ ] increase the average daily commits number to 20
+- [ ] do more than 2000 commits in the year
 - [ ] do random, absolutely not useful, pet projects I have been thinking of
 - [ ] document all my projects extensively
 - [ ] learn a new technology/framework (game development, react, anything)
